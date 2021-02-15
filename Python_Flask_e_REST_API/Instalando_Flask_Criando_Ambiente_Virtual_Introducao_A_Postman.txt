@@ -1,0 +1,22 @@
+| PIP
+
+- Sistema de gerenciamento de pacotes.
+- Utilizado para instalar e gerenciar pacotes/bibliotecas em Python.
+- Já vem empacotado com Python desde a versão 3.4
+
+| Virtualenv
+
+- Ferramenta para criar ambientes Python isolados.
+- Extremamente útil para se trabalhar com projetos que utilizam bibilotecas com versões diferentes.
+
+| PyCharm
+
+- IDE para desenvolvimento Python.
+- Robusta e torna o desenvolvimento muito mais fácil.
+
+| Postman
+
+- Ferramenta utilizada para realizar requisições HTTP.
+- Com ela é possível chamar qualquer método e também enviar parâmetros.
+
+| 

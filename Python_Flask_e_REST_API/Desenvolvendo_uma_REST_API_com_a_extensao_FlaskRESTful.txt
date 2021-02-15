@@ -1,0 +1,17 @@
+| REST 
+
+- É um estilo arquitetonico, um modelo para se seguir ao desenvolver APIs.
+
+| RESTful
+
+- Serviço web que utiliza desse paradigma. É utilizado para definir aplicações que implementar webservices que utilizam a arquitetura REST.
+
+- Podemos dizeer que uma aplicação web que segue a arquitetura REST, ela é RESTful, ou seja, tem a capacidade de seguir a arquitetura REST.
+
+| Flask-RESTful
+
+- Extensãp do Flask que adiciona suporte para construção rápida de REST APIs
+
+- O uso Flask-RESTful acaba incentivando as práticas recomendadas para a arquitetura REST com uma configuração leve.
+
+| 

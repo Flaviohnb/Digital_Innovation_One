@@ -1,0 +1,18 @@
+| SQLAlchemy
+
+- É um ORM para python
+- Fornece um conjunto completo de padrões de persistência, projetados para acesso a banco de dados eficiente e de alto desempenho, adptado em uma linguagem de domínio Pythonica simples.
+
+| ORM (Object Relational Mapping) 
+
+- Mapeamento objeto-relacional, ajuda na abstração das tabelas de banco de dados na orientação à objeto.
+- Tabelas viram classes e o desenvolvedor não precisa ter conhecimento em SQL
+
+| SQLite
+
+- Biblioteca de linguagem C que implementa um mecanismo de banco de dados pequeno, rápido e autonomo.
+- Mecânismo de banco de dados mais usado no mundo.
+- Incorporado em smartphones.
+- É possível montar uma instância de banco de dados sem precisar realizar uma instalação de um banco.
+- Prático para ambientes de desenvolvimento.
+

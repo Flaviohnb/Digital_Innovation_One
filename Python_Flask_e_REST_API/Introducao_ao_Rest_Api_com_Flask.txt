@@ -1,0 +1,51 @@
+| API (Interface de programação de aplicativos) 
+
+- Conjunto de rotinas para um acesso a um aplicativo/software/plataforma baseado na web.
+- São importantes quando se tem a intenção de realizar integrações com outros serviços.
+- A comunicação de software fica transparente para o usuario, com o uso da API.
+- APIs podem ser locais, baseada em web e baseada em programas.
+
+| REST (Transferência de Estado Representacional) 
+
+- Modelo a ser utilizado para projetar arquiteturas de software baseado em comunicação via rede.
+- Projeta a idea de que todo recurso deveria responder aoas mesmos métodos.
+
+| REST API
+
+- API é desenvolvida utilizando os principios da arquitetura REST.
+- É utilizado na comunicação/integração entre software através de serviços web.
+- Consumido através de requisições HTTP.
+- Representadas geralmente em seus formatos por JSON e XML. Também são usados páginas HTML, PDF e arquivos de imagens.
+- Ao implementar um REST API, cada método deve ser responsável por um tipo diferente de ação. Exemplo: Consulta, Alteração, Inclusão e Exclusão.
+
+| Principais Métodos do protocolo HTTP
+
+- GET - Solicita algum recurso ou objeto do servidor por meio da URI.
+- POST - Envio de arquivo/dados ou formulário HTML para o servidor.
+- PUT - Aceitar criar ou modificar um objeto do servidor.
+- DELETE - Informa por meio da URI o objeto a ser deletado.
+
+| URL vs URN vs URI
+
+- URL: Host que será acessado. Exemplo: globallabs.academy.
+- URN: Recurso que será identificado. Exemplo: /category/blog
+- URI: Identificador do recurso, podendo ser uma imagem, um arquivo ou uma página. Exemplo: https://globallabs.academy/category/blog/. Une protocolo(https://), URL(globallabs.academy) e a URN(/category/blog/)
+
+| XML (Extensible Markup Language)
+
+- Linguagem de marcação.
+- Utilizada para compartilhamento de informações através de requisições. 
+
+| JSON (JavaScript Object Nonation
+
+- Formato de troca de dados entre sistemas independente da linguagem utilizada derivada do JavaScript.
+- Muitas linguagens possuem suporte nativo a JSON.
+
+| Flask
+
+- Microframework para Python utilizado para desenvolvimento de aplicações WEB.
+- Chamado de microframework porque mantém um núcleo simples, mas é estendível.
+- Não possui camada de abstração para banco de dados, validação de formularios entre outros, mas é possível estender com outras bibliotecas.
+- Por ser leve e simples de se usar, Flask é um dos frameworks Python mais utilizados para desenvolvimento de APIs.
+
+| 
